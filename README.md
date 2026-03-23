@@ -1,4 +1,10 @@
-## Hello👋
+## 👾 About Me
+- Hello! I'm a frontend-focused developer and natural team organizer 
+
+## 💬 Ask me about ...
+- Video Games (JRPGs, Action, Story-focused, Emulation)
+- Model Building (Gundam and Other Mecha)
+- Comic Books (DC w/ focus on Batfamily)
 
 <!--
 **CerysKulla/CerysKulla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
